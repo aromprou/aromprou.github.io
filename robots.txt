@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aromprou.github.io/sitemap.html.gz
+Sitemap: https://aromprou.github.io/app/sitemap.html.gz
+Sitemap: https://aromprou.github.io/assets/sitemap.html.gz
+Sitemap: https://aromprou.github.io/css/sitemap.html.gz
+Sitemap: https://aromprou.github.io/data/sitemap.html.gz
+Sitemap: https://aromprou.github.io/includes/sitemap.html.gz
+Sitemap: https://aromprou.github.io/item/sitemap.html.gz
+Sitemap: https://aromprou.github.io/src/sitemap.html.gz
